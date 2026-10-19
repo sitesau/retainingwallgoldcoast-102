@@ -1,0 +1,22 @@
+{
+  "wheel_id": 453,
+  "structure": "umbrella",
+  "slug": "retainingwallgoldcoast-102",
+  "project": "retaining-walls-gold-coast-warranty-6d69c0d3c3059e37e23db09b7af",
+  "parent_t1_ref": "retainingwallgoldcoast-150",
+  "node_role": "feeder",
+  "money_target": "retainingwallgoldcoast.com.au",
+  "primary_kw": "retaining walls gold coast warranty",
+  "intended_url": "https://aumedia.neocities.org/retaining-walls-gold-coast-warranty-6d69c0d3c3059e37e23db09b7af/",
+  "tier": "T2",
+  "writeback_nonce": "a9ae3bfa53988b0b",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/retainingwallgoldcoast-150/",
+      "anchor": "Retaining Walls Gold Coast: A Practical Homeowner Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
